@@ -13,3 +13,6 @@ The object of the puzzle is to arrange the nine cards in a 3x3 grid so that all 
 the connecting top and bottom halves match up. I think this means that there are 4^9
 or 232,144 combinations to try. I spent a couple hours playing with the puzzle one
 evening, and then decided to write a program to solve it :-).
+
+The naive [golang solution](golang/main.go) took almost 22 minutes to find all of the [solutions](golang/output/output1.txt)
+on a AMD Ryzen 5 2600 (12 logical cores). 

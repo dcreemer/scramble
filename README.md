@@ -1,5 +1,7 @@
 # Penguin Puzzle
 
+ref: http://www.b-dazzle.com/scramble.asp
+
 There are 9 cards, each with 1/2 of a penguin on each of the four edges. There are
 four penguin designs, A, B, C, and D. Cards must be places in a 3x3 square, so that
 the facing edges have a corresponding match, i.e. A1+A2 or B2+B2, but not A1+B1.

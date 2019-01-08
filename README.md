@@ -1,4 +1,4 @@
-# Scamble Square Solver
+# Scramble Square Solver
 
 I recently came across a [Scramble Square](http://www.b-dazzle.com/puzzdetail.asp?a=1&PuzzID=70&CatID=9) puzzle of Penguins.
 

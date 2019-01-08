@@ -1,0 +1,5 @@
+/clojure/target
+/clojure/classes
+*.class
+.lein-*
+.nrepl-port

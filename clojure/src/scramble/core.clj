@@ -1,3 +1,4 @@
+
 (ns scramble.core
   (:require [clojure.math.combinatorics :as combo]
             [clojure.core.async :as async])
@@ -127,7 +128,7 @@
     (recur (rest boards))))
 
 (defn solve []
-  (run-workers 2)
+  (run-workers 11)
   (gen-work))
 
 (defn -main

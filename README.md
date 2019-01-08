@@ -2,6 +2,8 @@
 
 I recently came across a [Scramble Square](http://www.b-dazzle.com/puzzdetail.asp?a=1&PuzzID=70&CatID=9) puzzle of Penguins.
 
+![image of puzzle](http://www.b-dazzle.com/store/pc/catalog/10044penguins_1067_detail.jpg)
+
 The puzzle consists of nine cards, each with either the lower or upper half of some
 penguins. There are four different penguin designs (Adelie, Gentoo, Emperor, and
 Chinstrap), and the top of bottom half of one of the designs is found on one of the
